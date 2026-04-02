@@ -1,0 +1,11 @@
+credentials:
+  usernames:
+    harsh.shah:
+      name: Harsh Shah
+      email: harsh.shah@agrocastanalytics.com
+      password: $2b$12$PtI/VwgEXASR8FQ7O3qExepK2oUFG0/zkc8OrTY7WjiTXSoZUFYvW
+
+cookie:
+  name: vegetation_cookie
+  key: random_signature_key_123
+  expiry_days: 1
